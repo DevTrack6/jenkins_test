@@ -1,2 +1,3 @@
 # jenkins_test
-for testing jenkins
+
+젠킨스 테스트를 위한 저장소입니다.
